@@ -14,7 +14,7 @@
 3. Speed Calculation
   - We are calculating the distance moved by the tracked vehicle in a second, in terms of pixels, so we need pixel per meter to calculate the distance travelled in meters.With distance travelled per second in meters, we will get the speed of the vehicle.
 
-**__ How to run project?__**
+**How to run project?**
 Follow steps:
 
 - Clone repo : git clone `https://github.com/kraten/vehicle-speed-check`
